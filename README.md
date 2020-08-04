@@ -12,6 +12,8 @@ This application uses:
   <li>Manipulation of Moment.js database</li>
 </ul>
 
+Here is a link to the application: https://egome019.github.io/dailyPlanner/
+
 Below is a snippet of how the application works:
 
 
