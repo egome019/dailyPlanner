@@ -15,4 +15,4 @@ This application uses:
 Below is a snippet of how the application works:
 
 
-![](WorkDayPlanner.gif)
+![](WorkDayScheduler.gif)
